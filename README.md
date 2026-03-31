@@ -23,10 +23,10 @@ thesis-dpg-rb-schroedinger/
 │       └── stationary_schrodinger_convergence_studies.py       <-- Complete source file generating convergence plots under uniform mesh refinement
 │
 ├──  	dpg_spacetime_schr_free/                            <-- Code for Chapter 4.2.1 (time-dependent Schrödinger equation without potential ultraweak DPG)
-│       └── convergence_studies_spacetime_schr_free.py          <-- Complete source file generating convergence plots under uniform mesh refinement
+│       └── spacetime_schr_free_convergence_studies.py          <-- Complete source file generating convergence plots under uniform mesh refinement
 │
 │       dpg_spacetime_schr_potential/                       <-- Code for Chapter 4.2.2 (time-dependent Schrödinger equation with potential ultraweak DPG)
-│       └── convergence_studies_spacetime_schrodinger_potential.py		        <-- Complete source file generating convergence plots under uniform mesh refinement
+│       └── spacetime_schrodinger_potential_convergence_studies.py		        <-- Complete source file generating convergence plots under uniform mesh refinement
 │
 ├──     dpg_rb_stationary_schr/                             <-- Code for Chapter 5.5.1 (RB for primal DPG stationary Schrödinger equation)
 │       ├── fom_stationary.py					                <-- Setup of DPG Model for reduction, full-order solves with NGSolve
