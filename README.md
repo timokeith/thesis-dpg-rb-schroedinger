@@ -46,3 +46,6 @@ thesis-dpg-rb-schroedinger/
 ```
 ## Installation and Requirements
 This code was written using Python 3.12. To ensure reproducibility, please install the exact package versions listed in the requirements file.
+
+## Citation
+https://doi.org/10.5281/zenodo.19347602
