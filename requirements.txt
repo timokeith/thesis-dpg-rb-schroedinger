@@ -1,0 +1,5 @@
+numpy==1.26.0
+scipy==1.11.4
+matplotlib==3.8.2
+pymor==2025.1.2
+ngsolve==6.2.2506
